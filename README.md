@@ -1,1 +1,1 @@
-# Trial
+This project is a trial
